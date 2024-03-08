@@ -1,0 +1,16 @@
+{
+  "name": "react-mouseflow",
+  "version": "1.0.1",
+  "description": "Simple package for integrating a mouseflow tracking snippet",
+  "main": "react-mouseflow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mouseflow",
+    "session-recording",
+    "heatmap"
+  ],
+  "author": "Violet Boyett <vbo@mouseflow.com>",
+  "license": "ISC"
+}
