@@ -18,10 +18,10 @@ module.exports = {
 		identify: function tag(property) {
 			mouseflow('tag', property);
 		},
-		event: function event(key, value) {
+		event: function setVariable(key, value) {
 			mouseflow('setVariable', key, value);
 		},
-		stateChange: function stateChange(currentPath) {
+		stateChange: function newPageView(currentPath) {
 			mouseflow('newPageView', currentPath);
 		}
 	},
