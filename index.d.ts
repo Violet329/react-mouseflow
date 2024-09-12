@@ -3,7 +3,7 @@ export module mouseflow {
      * Initialize Mouseflow tracking.
      * @param mfid This is the Mouseflow Website ID for your project
      */
-    export function initialize(mfid: number): void;
+    export function initialize(mfid: string): void;
   
     /**
      * Check if Mouseflow has been initialized

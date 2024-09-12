@@ -1,6 +1,6 @@
 {
   "name": "react-mouseflow",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple package for integrating a mouseflow tracking snippet",
   "main": "react-mouseflow.js",
   "scripts": {
